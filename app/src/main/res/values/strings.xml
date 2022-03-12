@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SmartLearn</string>
+    <string name="lecture">Lecture</string>
+    <string name="chat">Chat</string>
+    <string name="classroom">classroom</string>
+    <string name="enter_message">Enter Message</string>
+
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.sahandilshan.smartlearn">
+
+    <application
+        android:name=".global"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Client_SetsActivity"></activity>
+        <activity android:name=".Client_ScoreActivity" />
+        <activity android:name=".Client_QuestionActivity" />
+        <activity android:name=".Client_MAinActivity" />
+        <activity android:name=".Client_CategoryActivity" />
+        <activity android:name=".Client_SplashActivity" />
+        <activity android:name=".Admin_QuestionDetails" />
+        <activity android:name=".Admin_QuestionsActivity" />
+        <activity android:name=".Admin_CategoryActivity" />
+        <activity android:name=".ChatMain" />
+        <activity android:name=".Admin_sets_activity" />
+        <activity android:name=".JitsiVideo" />
+        <activity android:name=".Mat_viewpdf" />
+        <activity android:name=".Mat_UploadActivity" />
+        <activity android:name=".Mat_MainActivity" />
+        <activity android:name=".Regstr" />
+        <activity android:name=".Log_in" />
+        <activity android:name=".clzroom" />
+        <activity android:name=".welcome_page">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "952801263449",
+    "project_id": "smart-learn-238ed",
+    "storage_bucket": "smart-learn-238ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952801263449:android:00144147effc450cfad648",
+        "android_client_info": {
+          "package_name": "com.sahandilshan.smartlearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952801263449-f2nr6pafnet4qm7lhdtkde1n6r47tfte.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sahandilshan.smartlearn",
+            "certificate_hash": "5227cbdb71540282d4f5b99b5658e020ba99a613"
+          }
+        },
+        {
+          "client_id": "952801263449-3kqj2vpb1s18rm7kbimf97ts64kqoktc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe4PbMEFf6QJJZQwBxW_HW9Z4clHFCilw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952801263449-3kqj2vpb1s18rm7kbimf97ts64kqoktc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
